@@ -1,0 +1,762 @@
+node_left: 1
+node_right: 100000
+max_height0 min_height 0
+node_left: 1
+node_right: 50000
+max_height0 min_height 0
+node_left: 1
+node_right: 25000
+max_height0 min_height 0
+node_left: 1
+node_right: 12500
+max_height0 min_height 0
+node_left: 1
+node_right: 6250
+max_height0 min_height 0
+node_left: 1
+node_right: 3125
+max_height0 min_height 0
+node_left: 1
+node_right: 1563
+max_height0 min_height 0
+node_left: 1
+node_right: 782
+max_height0 min_height 0
+node_left: 1
+node_right: 391
+max_height0 min_height 0
+node_left: 1
+node_right: 196
+max_height0 min_height 0
+node_left: 1
+node_right: 98
+max_height0 min_height 0
+node_left: 1
+node_right: 49
+max_height0 min_height 0
+node_left: 1
+node_right: 25
+max_height0 min_height 0
+node_left: 1
+node_right: 13
+max_height0 min_height 0
+node_left: 8
+node_right: 13
+max_height0 min_height 0
+node_left: 8
+node_right: 10
+max_height0 min_height 0
+node_left: 10
+node_right: 10
+max_height0 min_height 0
+-------------------
+node_left: 10
+node_right: 10
+max_height5 min_height 5
+count!
+----------
+node_left: 11
+node_right: 13
+max_height0 min_height 0
+-------------------
+node_left: 11
+node_right: 13
+max_height5 min_height 5
+count!
+----------
+node_left: 14
+node_right: 25
+max_height0 min_height 0
+node_left: 14
+node_right: 19
+max_height0 min_height 0
+node_left: 14
+node_right: 16
+max_height0 min_height 0
+node_left: 14
+node_right: 15
+max_height0 min_height 0
+node_left: 14
+node_right: 14
+max_height0 min_height 0
+-------------------
+node_left: 14
+node_right: 14
+max_height5 min_height 5
+count!
+----------
+5
+debug: 5
+node_left: 1
+node_right: 100000
+max_height5 min_height 0
+node_left: 1
+node_right: 50000
+max_height5 min_height 0
+node_left: 1
+node_right: 25000
+max_height5 min_height 0
+node_left: 1
+node_right: 12500
+max_height5 min_height 0
+node_left: 1
+node_right: 6250
+max_height5 min_height 0
+node_left: 1
+node_right: 3125
+max_height5 min_height 0
+node_left: 1
+node_right: 1563
+max_height5 min_height 0
+node_left: 1
+node_right: 782
+max_height5 min_height 0
+node_left: 1
+node_right: 391
+max_height5 min_height 0
+node_left: 1
+node_right: 196
+max_height5 min_height 0
+node_left: 1
+node_right: 98
+max_height5 min_height 0
+node_left: 1
+node_right: 49
+max_height5 min_height 0
+node_left: 1
+node_right: 25
+max_height5 min_height 0
+node_left: 1
+node_right: 13
+max_height5 min_height 0
+node_left: 1
+node_right: 7
+max_height0 min_height 0
+node_left: 1
+node_right: 4
+max_height0 min_height 0
+node_left: 3
+node_right: 4
+max_height0 min_height 0
+node_left: 4
+node_right: 4
+max_height0 min_height 0
+-------------------
+node_left: 4
+node_right: 4
+max_height10 min_height 10
+count!
+----------
+node_left: 5
+node_right: 7
+max_height0 min_height 0
+-------------------
+node_left: 5
+node_right: 7
+max_height10 min_height 10
+count!
+----------
+node_left: 8
+node_right: 13
+max_height5 min_height 0
+-------------------
+node_left: 8
+node_right: 13
+max_height10 min_height 10
+count!
+----------
+node_left: 14
+node_right: 25
+max_height5 min_height 0
+node_left: 14
+node_right: 19
+max_height5 min_height 0
+node_left: 14
+node_right: 16
+max_height5 min_height 0
+node_left: 14
+node_right: 15
+max_height5 min_height 0
+node_left: 14
+node_right: 14
+max_height5 min_height 5
+-------------------
+node_left: 14
+node_right: 14
+max_height10 min_height 10
+count!
+----------
+16
+debug: 11
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 19
+max_height10 min_height 0
+node_left: 14
+node_right: 16
+max_height10 min_height 0
+node_left: 14
+node_right: 15
+max_height10 min_height 0
+node_left: 15
+node_right: 15
+max_height0 min_height 0
+-------------------
+node_left: 15
+node_right: 15
+max_height5 min_height 5
+count!
+----------
+node_left: 16
+node_right: 16
+max_height0 min_height 0
+-------------------
+node_left: 16
+node_right: 16
+max_height5 min_height 5
+count!
+----------
+18
+debug: 2
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 1
+node_right: 7
+max_height10 min_height 0
+node_left: 1
+node_right: 4
+max_height10 min_height 0
+node_left: 1
+node_right: 2
+max_height0 min_height 0
+node_left: 2
+node_right: 2
+max_height0 min_height 0
+-------------------
+node_left: 2
+node_right: 2
+max_height8 min_height 8
+count!
+----------
+node_left: 3
+node_right: 4
+max_height10 min_height 0
+node_left: 3
+node_right: 3
+max_height0 min_height 0
+-------------------
+node_left: 3
+node_right: 3
+max_height8 min_height 8
+count!
+----------
+node_left: 4
+node_right: 4
+max_height10 min_height 10
+node_left: 5
+node_right: 7
+max_height10 min_height 10
+node_left: 8
+node_right: 13
+max_height10 min_height 10
+node_left: 14
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 19
+max_height10 min_height 0
+node_left: 14
+node_right: 16
+max_height10 min_height 5
+node_left: 14
+node_right: 15
+max_height10 min_height 5
+node_left: 14
+node_right: 14
+max_height10 min_height 10
+node_left: 15
+node_right: 15
+max_height5 min_height 5
+-------------------
+node_left: 15
+node_right: 15
+max_height8 min_height 8
+count!
+----------
+node_left: 16
+node_right: 16
+max_height5 min_height 5
+-------------------
+node_left: 16
+node_right: 16
+max_height8 min_height 8
+count!
+----------
+22
+debug: 4
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 1
+node_right: 7
+max_height10 min_height 0
+node_left: 5
+node_right: 7
+max_height10 min_height 10
+node_left: 5
+node_right: 6
+max_height10 min_height 10
+node_left: 6
+node_right: 6
+max_height0 min_height 0
+-------------------
+node_left: 6
+node_right: 6
+max_height10 min_height 10
+count!
+----------
+23
+debug: 1
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 1
+node_right: 7
+max_height10 min_height 0
+node_left: 1
+node_right: 4
+max_height10 min_height 0
+node_left: 1
+node_right: 2
+max_height8 min_height 0
+node_left: 2
+node_right: 2
+max_height8 min_height 8
+-------------------
+node_left: 2
+node_right: 2
+max_height8 min_height 8
+count!
+----------
+node_left: 3
+node_right: 4
+max_height10 min_height 8
+node_left: 3
+node_right: 3
+max_height8 min_height 8
+-------------------
+node_left: 3
+node_right: 3
+max_height8 min_height 8
+count!
+----------
+node_left: 4
+node_right: 4
+max_height10 min_height 10
+node_left: 5
+node_right: 7
+max_height10 min_height 0
+node_left: 5
+node_right: 6
+max_height10 min_height 0
+node_left: 5
+node_right: 5
+max_height0 min_height 0
+-------------------
+node_left: 5
+node_right: 5
+max_height8 min_height 8
+count!
+----------
+node_left: 6
+node_right: 6
+max_height10 min_height 10
+node_left: 7
+node_right: 7
+max_height10 min_height 10
+node_left: 8
+node_right: 13
+max_height10 min_height 10
+26
+debug: 3
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 1
+node_right: 7
+max_height10 min_height 0
+node_left: 5
+node_right: 7
+max_height10 min_height 8
+node_left: 7
+node_right: 7
+max_height10 min_height 10
+-------------------
+node_left: 7
+node_right: 7
+max_height10 min_height 10
+count!
+----------
+27
+debug: 1
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 19
+max_height10 min_height 0
+node_left: 14
+node_right: 16
+max_height10 min_height 8
+27
+debug: 0
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 8
+node_right: 13
+max_height10 min_height 10
+node_left: 14
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 19
+max_height10 min_height 0
+node_left: 14
+node_right: 16
+max_height10 min_height 8
+27
+debug: 0
+node_left: 1
+node_right: 100000
+max_height10 min_height 0
+node_left: 1
+node_right: 50000
+max_height10 min_height 0
+node_left: 1
+node_right: 25000
+max_height10 min_height 0
+node_left: 1
+node_right: 12500
+max_height10 min_height 0
+node_left: 1
+node_right: 6250
+max_height10 min_height 0
+node_left: 1
+node_right: 3125
+max_height10 min_height 0
+node_left: 1
+node_right: 1563
+max_height10 min_height 0
+node_left: 1
+node_right: 782
+max_height10 min_height 0
+node_left: 1
+node_right: 391
+max_height10 min_height 0
+node_left: 1
+node_right: 196
+max_height10 min_height 0
+node_left: 1
+node_right: 98
+max_height10 min_height 0
+node_left: 1
+node_right: 49
+max_height10 min_height 0
+node_left: 1
+node_right: 25
+max_height10 min_height 0
+node_left: 1
+node_right: 13
+max_height10 min_height 0
+node_left: 8
+node_right: 13
+max_height10 min_height 10
+node_left: 14
+node_right: 25
+max_height10 min_height 0
+node_left: 14
+node_right: 19
+max_height10 min_height 0
+node_left: 14
+node_right: 16
+max_height10 min_height 8
+27
+debug: 0
+27
